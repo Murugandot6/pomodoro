@@ -124,7 +124,7 @@ function App() {
       </div>
 
       {/* Footer */}
-      <a class="name" href="https://github.com/murugandot6" target="_blank">
+      <a class="µ" href="https://github.com/murugandot6" target="_blank">
         <i class="fab fa-github"></i>µ
       </a>
     </main>
